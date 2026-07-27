@@ -1,0 +1,17 @@
+shell-integration-features = ssh-env,ssh-terminfo
+quick-terminal-screen = mouse
+copy-on-select = true
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = true
+window-padding-color = extend
+window-height = 40
+window-width = 120
+window-step-resize = true
+theme = token-dark
+cursor-style = bar
+font-size = 14
+font-thicken = true
+keybind = global:super+backquote=toggle_quick_terminal
+keybind = shift+super+p=toggle_command_palette
+macos-titlebar-style = tabs
